@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alisherrahimov
 - 👀 I’m interested in react native and nodejs
-- 🌱 I’m currently learning docket, postgres, ios development
+- 🌱 I’m currently learning docker, postgres, ios development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
