@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @alisherrahimov
-- 👀 I’m interested in react native and nodejs
-- 🌱 I’m currently learning docker, postgres, ios development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m react native developer
 
 <!---
 alisherrahimov/alisherrahimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
